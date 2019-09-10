@@ -1,0 +1,17 @@
+D:\NewProject\obj\Debug\netcoreapp2.1\NewProject.csproj.CoreCompileInputs.cache
+D:\NewProject\obj\Debug\netcoreapp2.1\NewProject.AssemblyInfoInputs.cache
+D:\NewProject\obj\Debug\netcoreapp2.1\NewProject.AssemblyInfo.cs
+D:\NewProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\NewProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\NewProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\NewProject\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\NewProject\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\NewProject\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\NewProject\bin\Debug\netcoreapp2.1\NewProject.deps.json
+D:\NewProject\bin\Debug\netcoreapp2.1\NewProject.runtimeconfig.json
+D:\NewProject\bin\Debug\netcoreapp2.1\NewProject.runtimeconfig.dev.json
+D:\NewProject\bin\Debug\netcoreapp2.1\NewProject.dll
+D:\NewProject\bin\Debug\netcoreapp2.1\NewProject.pdb
+D:\NewProject\obj\Debug\netcoreapp2.1\NewProject.csprojAssemblyReference.cache
+D:\NewProject\obj\Debug\netcoreapp2.1\NewProject.dll
+D:\NewProject\obj\Debug\netcoreapp2.1\NewProject.pdb
