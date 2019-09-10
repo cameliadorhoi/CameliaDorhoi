@@ -18,7 +18,7 @@ namespace NewProject
         public void Setup()
         {
             var factory = new WebDriverFactory();
-            Driver = factory.Create(BrowserType.FireFox);
+            Driver = factory.Create(BrowserType.Chrome);
 
         }
 
