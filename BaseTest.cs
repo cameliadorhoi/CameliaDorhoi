@@ -13,12 +13,15 @@ namespace NewProject
     public class BaseTest
     {
         public IWebDriver Driver { get; private set; }
+        public HomePage homePage;
 
         [TestInitialize]
         public void Setup()
         {
             var factory = new WebDriverFactory();
             Driver = factory.Create(BrowserType.Chrome);
+
+            homePage = new HomePage(Driver);
 
         }
 

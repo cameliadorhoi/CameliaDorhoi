@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace NewProject
 {
-    class BasePage
+    public class BasePage
     {
         public IWebDriver Driver { get; set; }
         public BasePage(IWebDriver driver)

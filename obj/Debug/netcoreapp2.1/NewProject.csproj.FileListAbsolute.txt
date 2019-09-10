@@ -12,6 +12,5 @@ D:\NewProject\bin\Debug\netcoreapp2.1\NewProject.runtimeconfig.json
 D:\NewProject\bin\Debug\netcoreapp2.1\NewProject.runtimeconfig.dev.json
 D:\NewProject\bin\Debug\netcoreapp2.1\NewProject.dll
 D:\NewProject\bin\Debug\netcoreapp2.1\NewProject.pdb
-D:\NewProject\obj\Debug\netcoreapp2.1\NewProject.csprojAssemblyReference.cache
 D:\NewProject\obj\Debug\netcoreapp2.1\NewProject.dll
 D:\NewProject\obj\Debug\netcoreapp2.1\NewProject.pdb
